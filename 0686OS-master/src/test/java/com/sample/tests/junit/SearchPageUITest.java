@@ -3,7 +3,7 @@ package com.sample.tests.junit;
 import java.io.File;
 
 import org.junit.After;
-import org.junit.Assert;
+import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.remote.CapabilityType;
@@ -23,12 +23,12 @@ public class SearchPageUITest extends TestCommon {
 
     @Test
     public void testVerifyUIOnSearchPage() {
-        Assert.assertTrue(searchPage.editDestination.exists());
-        Assert.assertTrue(searchPage.checkoutDayExpand.exists());
-        Assert.assertTrue(searchPage.radioBusiness.exists());
-        Assert.assertTrue(searchPage.radioLeisure.exists());
+        assertTrue(searchPage.editDestination.exists());
+        assertTrue(searchPage.checkoutDayExpand.exists());
+        assertTrue(searchPage.radioBusiness.exists());
+        assertTrue(searchPage.radioLeisure.exists());
         //Assert.assertTrue(searchPage.radioHotels.exists());
-        Assert.assertTrue(searchPage.selectAdultsNumber.exists());
-        Assert.assertTrue(searchPage.buttonSubmit.exists());
+        assertTrue(searchPage.selectAdultsNumber.exists());
+        assertTrue(searchPage.buttonSubmit.exists());
     }
 }
