@@ -1,0 +1,17 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\Books.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\Books_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\JoinQueries.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\JoinQueries.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\JoinQueries.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\BooksExamples.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\BooksExamples.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\obj\Debug\JoinQueries.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\obj\Debug\JoinQueries.JoiningTableData.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\obj\Debug\JoinQueries.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\obj\Debug\JoinQueries.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\obj\Debug\JoinQueries.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\JoinQueries\obj\Debug\JoinQueries.pdb

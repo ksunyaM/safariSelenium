@@ -1,0 +1,13 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.BankUIForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.BankUIForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch17\BankLibrary\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb

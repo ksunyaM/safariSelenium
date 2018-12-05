@@ -1,0 +1,8 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.LinkLabelTestForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\bin\Debug\LinkLabelTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_14\LinkLabelTest\LinkLabelTest\obj\Debug\LinkLabelTest.pdb

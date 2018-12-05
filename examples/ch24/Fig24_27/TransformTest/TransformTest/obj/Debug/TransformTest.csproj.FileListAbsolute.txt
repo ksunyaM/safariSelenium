@@ -1,0 +1,10 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\bin\Debug\sports.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\bin\Debug\sports.xsl
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\bin\Debug\TransformTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\bin\Debug\TransformTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\obj\Debug\TransformTest.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\obj\Debug\TransformTest.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\obj\Debug\TransformTest.TransformTestForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\obj\Debug\TransformTest.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\obj\Debug\TransformTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_27\TransformTest\TransformTest\obj\Debug\TransformTest.pdb

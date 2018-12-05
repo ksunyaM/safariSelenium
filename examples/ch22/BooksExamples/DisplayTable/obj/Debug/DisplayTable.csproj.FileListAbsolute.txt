@@ -1,0 +1,17 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\Books.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\Books_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\DisplayTable.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\DisplayTable.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\BooksExamples.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\BooksExamples.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.DisplayAuthorsTable.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayTable\obj\Debug\DisplayTable.pdb

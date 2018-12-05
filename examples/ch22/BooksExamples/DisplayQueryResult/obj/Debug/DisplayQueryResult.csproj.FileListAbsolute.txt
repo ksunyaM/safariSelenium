@@ -1,0 +1,17 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\Books.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\Books_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\DisplayQueryResult.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\BooksExamples.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.TitleQueries.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\DisplayQueryResult\obj\Debug\DisplayQueryResult.pdb

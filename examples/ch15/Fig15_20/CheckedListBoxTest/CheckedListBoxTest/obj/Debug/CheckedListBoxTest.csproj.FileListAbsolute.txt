@@ -1,0 +1,7 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.CheckedListBoxTestForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_20\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.pdb

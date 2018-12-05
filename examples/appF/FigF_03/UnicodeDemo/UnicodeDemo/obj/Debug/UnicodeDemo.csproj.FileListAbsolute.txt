@@ -1,0 +1,8 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\bin\Debug\UnicodeDemo.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\bin\Debug\UnicodeDemo.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\obj\Debug\UnicodeDemo.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\obj\Debug\UnicodeDemo.UnicodeForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\obj\Debug\UnicodeDemo.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\obj\Debug\UnicodeDemo.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\obj\Debug\UnicodeDemo.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appF\FigF_03\UnicodeDemo\UnicodeDemo\obj\Debug\UnicodeDemo.pdb

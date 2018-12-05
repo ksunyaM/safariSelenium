@@ -1,0 +1,5 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_04\MaximumTest\MaximumTest\bin\Debug\MaximumTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_04\MaximumTest\MaximumTest\bin\Debug\MaximumTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_04\MaximumTest\MaximumTest\obj\Debug\MaximumTest.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_04\MaximumTest\MaximumTest\obj\Debug\MaximumTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_04\MaximumTest\MaximumTest\obj\Debug\MaximumTest.pdb

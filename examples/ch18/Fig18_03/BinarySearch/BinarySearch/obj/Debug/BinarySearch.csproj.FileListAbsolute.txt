@@ -1,0 +1,5 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_03\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_03\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_03\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_03\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_03\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

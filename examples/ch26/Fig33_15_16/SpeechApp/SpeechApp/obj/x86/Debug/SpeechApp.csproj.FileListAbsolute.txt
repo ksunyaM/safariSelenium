@@ -1,0 +1,14 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\bin\Debug\SpeechApp.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\bin\Debug\SpeechApp.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\MainWindow.baml
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\MainWindow.g.cs
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\App.g.cs
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp_MarkupCompile.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.g.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch33\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch26\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch26\Fig33_15_16\SpeechApp\SpeechApp\obj\x86\Debug\SpeechApp.pdb

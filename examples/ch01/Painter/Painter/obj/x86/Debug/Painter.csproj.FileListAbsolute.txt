@@ -1,0 +1,13 @@
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\bin\Debug\Painter.exe
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\bin\Debug\Painter.pdb
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.csprojAssemblyReference.cache
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\MainWindow.baml
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\App.g.cs
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter_MarkupCompile.cache
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.g.resources
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.Properties.Resources.resources
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.csproj.GenerateResource.cache
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.csproj.CoreCompileInputs.cache
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.exe
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch01\Painter\Painter\obj\x86\Debug\Painter.pdb

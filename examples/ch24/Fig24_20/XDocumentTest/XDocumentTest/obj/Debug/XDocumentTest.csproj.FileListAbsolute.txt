@@ -1,0 +1,9 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\bin\Debug\article.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.XDocumentTestForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_20\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.pdb

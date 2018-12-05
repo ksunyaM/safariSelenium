@@ -1,0 +1,7 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\bin\Debug\ComboBoxTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\bin\Debug\ComboBoxTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.ComboBoxTestForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_23\ComboBoxTest\ComboBoxTest\obj\Debug\ComboBoxTest.pdb

@@ -1,0 +1,12 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\Books.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\Books_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\BooksExamples.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\BooksExamples.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\obj\Debug\BooksExamples.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\obj\Debug\BooksExamples.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\BooksExamples\obj\Debug\BooksExamples.pdb

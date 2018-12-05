@@ -1,0 +1,5 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_05_08\Stack\Stack\bin\Debug\Stack.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch20\Fig20_05_08\Stack\Stack\obj\Debug\Stack.pdb

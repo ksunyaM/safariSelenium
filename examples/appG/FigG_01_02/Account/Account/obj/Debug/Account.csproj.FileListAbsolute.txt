@@ -1,0 +1,5 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appG\FigG_01_02\Account\Account\bin\Debug\Account.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appG\FigG_01_02\Account\Account\bin\Debug\Account.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\appG\FigG_01_02\Account\Account\obj\Debug\Account.pdb

@@ -1,0 +1,16 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\Books.mdf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\Books_log.ldf
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\MasterDetail.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\MasterDetail.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\MasterDetail.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\BooksExamples.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\EntityFramework.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\EntityFramework.SqlServer.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\BooksExamples.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\EntityFramework.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\bin\Debug\EntityFramework.SqlServer.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\obj\Debug\MasterDetail.Details.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\obj\Debug\MasterDetail.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\obj\Debug\MasterDetail.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\obj\Debug\MasterDetail.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch22\BooksExamples\MasterDetail\obj\Debug\MasterDetail.pdb

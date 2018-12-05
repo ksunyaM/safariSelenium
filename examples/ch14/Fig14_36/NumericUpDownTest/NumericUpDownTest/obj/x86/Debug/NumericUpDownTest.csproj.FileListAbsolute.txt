@@ -1,0 +1,9 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\bin\Debug\NumericUpDownTest.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.InterestCalculatorForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch14\Fig14_36\NumericUpDownTest\NumericUpDownTest\obj\x86\Debug\NumericUpDownTest.pdb

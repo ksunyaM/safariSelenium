@@ -1,0 +1,5 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_06\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_06\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_06\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_06\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch18\Fig18_06\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

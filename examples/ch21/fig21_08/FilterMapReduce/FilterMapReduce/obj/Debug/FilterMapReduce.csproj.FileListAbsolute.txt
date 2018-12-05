@@ -1,0 +1,1 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch21\fig21_08\FilterMapReduce\FilterMapReduce\bin\Debug\FilterMapReduce.exe.config

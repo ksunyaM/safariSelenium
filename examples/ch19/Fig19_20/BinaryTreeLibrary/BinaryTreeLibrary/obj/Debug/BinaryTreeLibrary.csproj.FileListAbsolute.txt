@@ -1,0 +1,5 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.dll
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.pdb

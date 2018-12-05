@@ -1,0 +1,12 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch31\ATMCaseStudy\bin\Debug\ATMCaseStudy.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch31\ATMCaseStudy\bin\Debug\ATMCaseStudy.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch31\ATMCaseStudy\obj\Debug\ATMCaseStudy.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch31\ATMCaseStudy\obj\Debug\ATMCaseStudy.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch31\ATMCaseStudy\obj\Debug\ATMCaseStudy.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch35\ATMCaseStudy\obj\Debug\ATMCaseStudy.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch35\ATMCaseStudy\obj\Debug\ATMCaseStudy.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch28\ATMCaseStudy\obj\Debug\ATMCaseStudy.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch28\ATMCaseStudy\obj\Debug\ATMCaseStudy.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch28\ATMCaseStudy\bin\Debug\ATMCaseStudy.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch28\ATMCaseStudy\bin\Debug\ATMCaseStudy.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch28\ATMCaseStudy\obj\Debug\ATMCaseStudy.csprojResolveAssemblyReference.cache

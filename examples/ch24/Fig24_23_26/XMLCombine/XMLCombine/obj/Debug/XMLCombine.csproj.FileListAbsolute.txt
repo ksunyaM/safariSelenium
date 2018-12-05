@@ -1,0 +1,7 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\bin\Debug\employeesNew.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\bin\Debug\employeesOld.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\bin\Debug\XMLCombine.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\bin\Debug\XMLCombine.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\obj\Debug\XMLCombine.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\obj\Debug\XMLCombine.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_23_26\XMLCombine\XMLCombine\obj\Debug\XMLCombine.pdb

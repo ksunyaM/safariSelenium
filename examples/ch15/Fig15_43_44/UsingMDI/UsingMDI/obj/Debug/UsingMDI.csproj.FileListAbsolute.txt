@@ -1,0 +1,9 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch15\Fig15_43_44\UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb

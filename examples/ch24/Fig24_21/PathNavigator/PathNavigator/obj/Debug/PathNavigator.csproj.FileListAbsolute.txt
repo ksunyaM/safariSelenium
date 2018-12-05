@@ -1,0 +1,8 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\bin\Debug\sports.xml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\bin\Debug\PathNavigator.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\bin\Debug\PathNavigator.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\obj\Debug\PathNavigator.PathNavigatorForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\obj\Debug\PathNavigator.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\obj\Debug\PathNavigator.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\obj\Debug\PathNavigator.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch24\Fig24_21\PathNavigator\PathNavigator\obj\Debug\PathNavigator.pdb

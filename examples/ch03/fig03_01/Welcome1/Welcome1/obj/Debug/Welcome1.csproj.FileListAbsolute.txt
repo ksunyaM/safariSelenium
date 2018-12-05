@@ -1,0 +1,7 @@
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\bin\Debug\Welcome1.exe.config
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\bin\Debug\Welcome1.exe
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\bin\Debug\Welcome1.pdb
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\obj\Debug\Welcome1.csprojAssemblyReference.cache
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\obj\Debug\Welcome1.csproj.CoreCompileInputs.cache
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\obj\Debug\Welcome1.exe
+C:\Users\kseniia.morenko\Documents\safariSelenium\examples\ch03\fig03_01\Welcome1\Welcome1\obj\Debug\Welcome1.pdb

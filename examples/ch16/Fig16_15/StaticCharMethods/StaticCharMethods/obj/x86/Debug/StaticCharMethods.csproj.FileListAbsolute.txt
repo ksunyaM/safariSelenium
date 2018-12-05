@@ -1,0 +1,1 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch16\Fig16_15\StaticCharMethods\StaticCharMethods\bin\Debug\StaticCharMethods.exe.config

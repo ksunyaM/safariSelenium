@@ -72,6 +72,7 @@
     <session id="-1736062857">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.118" value="1" />
           <entry key="project.open.time.20" value="1" />
@@ -447,7 +448,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-6" />
     <option name="y" value="6" />
     <option name="width" value="1936" />
@@ -517,7 +518,7 @@
     <option name="totallyTimeSpent" value="12498000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="6" width="1936" height="1056" extended-state="0" />
+    <frame x="-6" y="6" width="1936" height="1056" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

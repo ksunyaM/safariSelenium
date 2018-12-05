@@ -1,0 +1,1 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_06\FindPrimes\FindPrimes\bin\Debug\FindPrimes.exe.config
