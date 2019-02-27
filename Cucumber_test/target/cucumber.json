@@ -1,0 +1,677 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 271013,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevalidation()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login",
+        "after": [
+          {
+            "result": {
+              "duration": 40296,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.postvalidation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 151533828,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User us is on NetbBanking landing page",
+            "match": {
+              "location": "MyStephens.userUsIsOnNetbBankingLandingPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6029037,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User login into application with username \"eeee\" and password  \"12345\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "eeee",
+                  "offset": 43
+                },
+                {
+                  "val": "12345",
+                  "offset": 64
+                }
+              ],
+              "location": "MyStephens.userLoginIntoApplicationWithUsernameAndPassword(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 55704,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStephens.homePageIsPopulated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 56099,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStephens.cardsAreDisplayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@regression"
+          },
+          {
+            "line": 2,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Application login",
+    "description": "",
+    "id": "application-login",
+    "keyword": "Feature",
+    "uri": "a.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 67161,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "validate browser",
+            "match": {
+              "location": "MyStephens.validate_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 60049,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Browser is trigerred",
+            "match": {
+              "location": "MyStephens.browser_is_trigerred()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 103507,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "check if browser started",
+            "match": {
+              "location": "MyStephens.check_if_browser_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 6,
+            "value": "#Scenario: Home page default login"
+          },
+          {
+            "line": 7,
+            "value": "#    Given User us is on NetbBanking landing page"
+          },
+          {
+            "line": 8,
+            "value": "#    When User login into application with username \"eeee\" and password  \"12345\""
+          },
+          {
+            "line": 9,
+            "value": "#    Then Home page is populated"
+          },
+          {
+            "line": 10,
+            "value": "#    And Cards are displayed"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 65580,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevalidation()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 77037,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User us is on NetbBanking landing page",
+            "match": {
+              "location": "MyStephens.userUsIsOnNetbBankingLandingPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 224790,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User login into application with username \"john\" and password  \"6789\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "john",
+                  "offset": 43
+                },
+                {
+                  "val": "6789",
+                  "offset": 64
+                }
+              ],
+              "location": "MyStephens.userLoginIntoApplicationWithUsernameAndPassword(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 115358,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStephens.homePageIsPopulated()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 50173,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Cards are displayed",
+            "match": {
+              "location": "MyStephens.cardsAreDisplayed()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@functional"
+          },
+          {
+            "line": 11,
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 105877,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "validate browser",
+            "match": {
+              "location": "MyStephens.validate_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 39901,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Browser is trigerred",
+            "match": {
+              "location": "MyStephens.browser_is_trigerred()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 42272,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "check if browser started",
+            "match": {
+              "location": "MyStephens.check_if_browser_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 215703,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevalidation()"
+            }
+          }
+        ],
+        "line": 34,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 24889,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.postvalidation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 78222,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User us is on NetbBanking landing page",
+            "match": {
+              "location": "MyStephens.userUsIsOnNetbBankingLandingPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4146963,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User login in application with username user1 and password pass1",
+            "match": {
+              "arguments": [
+                {
+                  "val": "user1",
+                  "offset": 40
+                },
+                {
+                  "val": "pass1",
+                  "offset": 59
+                }
+              ],
+              "location": "MyStephens.user_login_in_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 73086,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStephens.homePageIsPopulated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 60444,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "validate browser",
+            "match": {
+              "location": "MyStephens.validate_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 118913,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Browser is trigerred",
+            "match": {
+              "location": "MyStephens.browser_is_trigerred()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 43457,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "check if browser started",
+            "match": {
+              "location": "MyStephens.check_if_browser_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 50962,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevalidation()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 27654,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.postvalidation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 62024,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User us is on NetbBanking landing page",
+            "match": {
+              "location": "MyStephens.userUsIsOnNetbBankingLandingPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 224790,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User login in application with username ser2 and password pass2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ser2",
+                  "offset": 40
+                },
+                {
+                  "val": "pass2",
+                  "offset": 58
+                }
+              ],
+              "location": "MyStephens.user_login_in_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 63210,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStephens.homePageIsPopulated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 77432,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "validate browser",
+            "match": {
+              "location": "MyStephens.validate_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 79407,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Browser is trigerred",
+            "match": {
+              "location": "MyStephens.browser_is_trigerred()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 37531,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "check if browser started",
+            "match": {
+              "location": "MyStephens.check_if_browser_started()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 143802,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevalidation()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 334222,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.postvalidation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 61630,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User us is on NetbBanking landing page",
+            "match": {
+              "location": "MyStephens.userUsIsOnNetbBankingLandingPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 845827,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User login in application with username user3 and password pass3",
+            "match": {
+              "arguments": [
+                {
+                  "val": "user3",
+                  "offset": 40
+                },
+                {
+                  "val": "pass3",
+                  "offset": 59
+                }
+              ],
+              "location": "MyStephens.user_login_in_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 43852,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Home page is populated",
+            "match": {
+              "location": "MyStephens.homePageIsPopulated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 26,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "Application login",
+    "description": "",
+    "id": "application-login",
+    "keyword": "Feature",
+    "uri": "r.feature"
+  }
+]
