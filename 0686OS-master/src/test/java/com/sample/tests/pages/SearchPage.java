@@ -58,6 +58,7 @@ public class SearchPage extends Page {
         }
         return this;
     }
+
     public void checkInToday() {
         checkoutDayExpand.click();
         checkoutDayToday.click();
