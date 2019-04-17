@@ -1,0 +1,9 @@
+{
+"slotCode": "${slot}",
+    "username": "john",
+    "warehouseCode": "${warehouse}",
+    "listStatus": [
+        "${status}",
+        "Started"
+    ]
+}

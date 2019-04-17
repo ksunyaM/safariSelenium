@@ -1,0 +1,5 @@
+{
+    "replenishmentTaskCode": "${code}",
+    "username": "john",
+    "warehouseCode": "${warehouse}"
+}

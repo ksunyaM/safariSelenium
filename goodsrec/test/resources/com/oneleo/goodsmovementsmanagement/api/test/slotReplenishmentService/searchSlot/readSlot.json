@@ -1,0 +1,8 @@
+{
+    "username": "john",
+    "warehouseCode": "${warehouseCode}",
+    "listStatus": [
+        "${status}",
+        "Started"
+    ]
+}
