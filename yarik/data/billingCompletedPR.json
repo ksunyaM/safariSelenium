@@ -1,0 +1,35 @@
+{
+  "eventProducedTime" : 3213,
+  "correlationId" : "3132",
+  "billingStatus" : "BILLING_SUCCESS",
+  "billingError" : null,
+  "patientCode" : "132",
+  "dispenseCode" : "3123",
+  "rxNumber" : "313",
+  "dispenseNumber" : 3213,
+  "dispensingLocation" : {
+    "locationNumber" : "32131",
+    "locationType" : "Pharmacy"
+  },
+  "patientResponsibility" : {
+    "com.wba.finance.billing.complete.event.avro.Currency" : {
+      "amount" : {
+        "string" : "132"
+      },
+      "isoCode" : "USD",
+      "symbol" : {
+        "string" : "$"
+      },
+      "decimalValue" : 132.0,
+      "formattedAmount" : {
+        "string" : "132$"
+      }
+    }
+  },
+  "billingPaymentMethod" : "CASH",
+  "consolidatedClaimStatus" : null,
+  "cashPriceResponse" : null,
+  "billingResponsesReceived" : {
+    "array" : [ ]
+  }
+}

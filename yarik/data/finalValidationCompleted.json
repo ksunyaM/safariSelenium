@@ -1,0 +1,15 @@
+{
+  "correlationId" : "12354658979",
+  "eventProducedTime" : 213564989646,
+  "dispenseCode" : "53156489946",
+  "dispensingLocation" : {
+    "locationNumber" : "loc2315649",
+    "locationType" : "Pharmacy"
+  },
+  "finalValidationDateTime" : 2132564363,
+  "rxNumber" : "321325649",
+  "validatedBy" : {
+    "employeeNumber" : "3215649626",
+    "employeeType" : "CONSULTANT"
+  }
+}

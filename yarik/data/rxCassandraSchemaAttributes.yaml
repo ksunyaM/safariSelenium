@@ -1,0 +1,403 @@
+attributes:
+
+  correlationId:
+    jsonPathProducedEvent: correlationId
+    jsonPathConsumedEvent: correlationId
+
+  dispense:
+    jsonPathProducedEvent: dispense
+    jsonPathConsumedEvent: dispense
+
+  dispenseCode:
+    jsonPathConsumedEvent: dispense.code
+
+  actualProductPackCode:
+    jsonPathProducedEvent: dispense.actualProductPackCode.string
+    jsonPathConsumedEvent: dispense.actualProductPackCode
+    dbColumnName: act_prod_pack_code
+
+  adjudicationCode:
+    jsonPathProducedEvent: dispense.adjudicationCode.string
+    jsonPathConsumedEvent: dispense.adjudicationCode
+    dbColumnName: adjudication_code
+
+  claimReferenceNumber:
+    jsonPathProducedEvent: dispense.claimReferenceNumber.string
+    jsonPathConsumedEvent: dispense.claimReferenceNumber
+    dbColumnName: claim_ref_num
+
+  copay:
+    jsonPathProducedEvent: dispense.copayAmount
+    jsonPathConsumedEvent: dispense.copayAmount
+
+  copayAmount:
+    jsonPathProducedEvent: dispense.copayAmount.['com.wba.rxdata.load.event.avro.Currency'].amount.string
+    jsonPathConsumedEvent: dispense.copayAmount.amount
+    dbColumnName: copay_amount
+
+  daysSupply:
+    jsonPathProducedEvent: dispense.daysSupply
+    jsonPathConsumedEvent: dispense.daysSupply
+    dbColumnName: days_supply
+
+  dispenseNumber:
+    jsonPathProducedEvent: dispense.dispenseNumber
+    jsonPathConsumedEvent: dispense.dispenseNumber
+    dbColumnName: dispense_number
+
+  generalRecipientNumber:
+    jsonPathProducedEvent: dispense.generalRecipientNumber.string
+    jsonPathConsumedEvent: dispense.generalRecipientNumber
+    dbColumnName: gen_rcpnt_num
+
+  genericSubstitutionSaving:
+    jsonPathProducedEvent: dispense.genericSubstitutionSaving
+    jsonPathConsumedEvent: dispense.genericSubstitutionSaving
+
+  genericSubstitutionSavingAmount:
+    jsonPathProducedEvent: dispense.genericSubstitutionSaving.amount
+    jsonPathConsumedEvent: dispense.genericSubstitutionSaving.amount
+    dbColumnName: gen_sub_saving
+
+  dispenseoriginCode:
+    jsonPathProducedEvent: dispense.originCode.['com.wba.rxdata.load.event.avro.DispenseOriginCode']
+    jsonPathConsumedEvent: dispense.originCode
+    dbColumnName: disp_origin_code
+
+  patientPayment:
+    jsonPathProducedEvent: dispense.patienPaymentAmount
+    jsonPathConsumedEvent: dispense.patienPaymentAmount
+
+  patientPaymentAmount:
+    jsonPathProducedEvent: dispense.patienPaymentAmount.amount
+    jsonPathConsumedEvent: dispense.patienPaymentAmount.amount
+    dbColumnName: patient_payment_amount
+
+  payCode:
+    jsonPathProducedEvent: dispense.payCode.string
+    jsonPathConsumedEvent: dispense.payCode
+    dbColumnName: disp_pay_code
+
+  paymentMethod:
+    jsonPathProducedEvent: dispense.paymentMethod.['com.wba.rxdata.load.event.avro.PaymentMethod']
+    jsonPathConsumedEvent: dispense.paymentMethod
+    dbColumnName: payment_method
+
+  planCode:
+    jsonPathProducedEvent: dispense.planCode.string
+    jsonPathConsumedEvent: dispense.planCode
+    dbColumnName: plan_code
+
+  priceOverride:
+    jsonPathProducedEvent: dispense.priceOverrideAmount
+    jsonPathConsumedEvent: dispense.priceOverrideAmount
+
+  priceOverrideAmount:
+    jsonPathProducedEvent: dispense.priceOverrideAmount.amount
+    jsonPathConsumedEvent: dispense.priceOverrideAmount.amount
+    dbColumnName: price_override_amount
+
+  priorAuthorizationCode:
+    jsonPathProducedEvent: dispense.priorAuthorizationCode.string
+    jsonPathConsumedEvent: dispense.priorAuthorizationCode
+    dbColumnName: prior_auth_code
+
+  priorAuthorizationNumber:
+    jsonPathProducedEvent: dispense.priorAuthorizationNumber.string
+    jsonPathConsumedEvent: dispense.priorAuthorizationNumber
+    dbColumnName: prior_auth_number
+
+  productAverageWholesalePrice:
+    jsonPathProducedEvent: dispense.productAverageWholesalePrice
+    jsonPathConsumedEvent: dispense.productAverageWholesalePrice
+
+  productAverageWholesalePriceAmount:
+    jsonPathProducedEvent: dispense.productAverageWholesalePrice.amount
+    jsonPathConsumedEvent: dispense.productAverageWholesalePrice.amount
+    dbColumnName: prod_avg_wholesale_price
+
+  quantityDispensed:
+    jsonPathProducedEvent: dispense.quantityDispensed
+    jsonPathConsumedEvent: dispense.quantityDispensed
+    dbColumnName: qty_dispensed
+
+  retailPrice:
+    jsonPathProducedEvent: dispense.retailPrice
+    jsonPathConsumedEvent: dispense.retailPrice
+
+  retailPriceAmount:
+    jsonPathProducedEvent: dispense.retailPrice.amount
+    jsonPathConsumedEvent: dispense.retailPrice.amount
+    dbColumnName: retail_price_amount
+
+  retailPriceIsoCode:
+    jsonPathProducedEvent: dispense.retailPrice.isoCode
+    jsonPathConsumedEvent: dispense.retailPrice.isoCode
+    dbColumnName: retail_price_iso_code
+
+  rxNumber:
+    jsonPathProducedEvent: dispense.rxNumber
+    jsonPathConsumedEvent: dispense.rxNumber
+    dbColumnName: rx_number
+
+  servicePlace:
+    jsonPathProducedEvent: dispense.servicePlace.['com.wba.rxdata.load.event.avro.DispenseServicePlace']
+    jsonPathConsumedEvent: dispense.servicePlace
+    dbColumnName: service_place
+
+  soldAmount:
+    jsonPathProducedEvent: dispense.soldAmount
+    jsonPathConsumedEvent: dispense.soldAmount
+
+  soldPriceAmount:
+    jsonPathProducedEvent: dispense.soldAmount.amount
+    jsonPathConsumedEvent: dispense.soldAmount.amount
+    dbColumnName: sold_amount
+
+  soldPriceIsoCode:
+    jsonPathProducedEvent: dispense.soldAmount.isoCode
+    jsonPathConsumedEvent: dispense.soldAmount.isoCode
+
+  soldDatetime:
+    jsonPathProducedEvent: dispense.soldDatetime.long
+    jsonPathConsumedEvent: dispense.soldDatetime
+    dbColumnName: sold_date_time
+
+  dispensestatus:
+    jsonPathProducedEvent: dispense.status
+    jsonPathConsumedEvent: dispense.status
+    dbColumnName: disp_status
+
+  dispensingLocation:
+    jsonPathProducedEvent: dispense.dispensingLocation
+    jsonPathConsumedEvent: dispense.dispensingLocation
+
+  dispensingLocationNumber:
+    jsonPathProducedEvent: dispense.dispensingLocation.locationNumber
+    jsonPathConsumedEvent: dispense.dispensingLocation.locationNumber
+    dbColumnName: location_number
+
+  dispensingLocationType:
+    jsonPathProducedEvent: dispense.dispensingLocation.locationType
+    jsonPathConsumedEvent: dispense.dispensingLocation.locationType
+    dbColumnName: location_type
+
+  prescription:
+    jsonPathProducedEvent: prescription
+    jsonPathConsumedEvent:
+
+  prescriptionCode:
+    jsonPathConsumedEvent: prescription.code
+
+  rxAuthorizer:
+    jsonPathProducedEvent: prescription.rxAuthorizer.string
+    jsonPathConsumedEvent: prescription.rxAuthorizer
+    dbColumnName: rx_authorizer
+
+  rxAutoRefill:
+    jsonPathProducedEvent: prescription.rxAutoRefill
+    jsonPathConsumedEvent: prescription.rxAutoRefill
+    dbColumnName: rx_auto_refill
+
+  rxComments:
+    jsonPathProducedEvent: prescription.rxComments.string
+    jsonPathConsumedEvent: prescription.rxComments
+    dbColumnName: rx_comments
+
+  rxCoupon:
+    jsonPathProducedEvent: prescription.rxCoupon
+    jsonPathConsumedEvent: prescription.rxCoupon
+    dbColumnName: rx_coupon
+
+  rxCouponActualProductPack:
+    jsonPathProducedEvent: prescription.rxCouponActualProductPack.string
+    jsonPathConsumedEvent: prescription.rxCouponActualProductPack
+    dbColumnName: coupon_app_code
+
+  rxGenericSubstitutePreference:
+    jsonPathProducedEvent: prescription.rxGenericSubstitutePreference
+    jsonPathConsumedEvent: prescription.rxGenericSubstitutePreference
+    dbColumnName: generic_sub_pref
+
+  rxIntermediaryAuthorizationId:
+    jsonPathProducedEvent: prescription.rxIntermediaryAuthorizationId.string
+    jsonPathConsumedEvent: prescription.rxIntermediaryAuthorizationId
+    dbColumnName: inter_auth_id
+
+  rxLastDispenseNumber:
+    jsonPathProducedEvent: prescription.rxLastDispenseNumber.int
+    jsonPathConsumedEvent: prescription.rxLastDispenseNumber
+    dbColumnName: last_disp_number
+
+  rxPrintGenericProductName:
+    jsonPathProducedEvent: prescription.rxPrintGenericProductName
+    jsonPathConsumedEvent: prescription.rxPrintGenericProductName
+    dbColumnName: print_gen_prod_name
+
+  rxPrintSavings:
+    jsonPathProducedEvent: prescription.rxPrintSavings
+    jsonPathConsumedEvent: prescription.rxPrintSavings
+    dbColumnName: print_savings
+
+  rxPublicSafetyDeptNumber:
+    jsonPathProducedEvent: prescription.rxPublicSafetyDeptNumber.string
+    jsonPathConsumedEvent: prescription.rxPublicSafetyDeptNumber
+    dbColumnName: pub_safety_dept_number
+
+  rxQuantityRemaining:
+    jsonPathProducedEvent: prescription.rxQuantityRemaining.double
+    jsonPathConsumedEvent: prescription.rxQuantityRemaining
+    dbColumnName: qty_remaining
+
+  rxRefillsRemaining:
+    jsonPathProducedEvent: prescription.rxRefillsRemaining.int
+    jsonPathConsumedEvent: prescription.rxRefillsRemaining
+    dbColumnName: refills_remaining
+
+  rxSecondaryPrescriberCode:
+    jsonPathProducedEvent: prescription.rxSecondaryPrescriberCode.string
+    jsonPathConsumedEvent: prescription.rxSecondaryPrescriberCode
+    dbColumnName: sec_presciber_code
+
+  rxSecondaryPrescriberQualifier:
+    jsonPathProducedEvent: prescription.rxSecondaryPrescriberQualifier.['com.wba.rxdata.load.event.avro.PrescriberQualifier']
+    jsonPathConsumedEvent: prescription.rxSecondaryPrescriberQualifier
+    dbColumnName: sec_prescriber_qualifier
+
+  rxStatus:
+    jsonPathProducedEvent: prescription.rxStatus
+    jsonPathConsumedEvent: prescription.rxStatus
+    dbColumnName: rx_status
+
+  rxSubstituteType:
+    jsonPathProducedEvent: prescription.rxSubstituteType.['com.wba.rxdata.load.event.avro.RxSubstituteType']
+    jsonPathConsumedEvent: prescription.rxSubstituteType
+    dbColumnName: rx_substitute_type
+
+  rxTotalQuantityDispensed:
+    jsonPathProducedEvent: prescription.rxTotalQuantityDispensed.double
+    jsonPathConsumedEvent: prescription.rxTotalQuantityDispensed
+    dbColumnName: total_qty_dispensed
+
+  specDirection:
+    jsonPathProducedEvent: prescription.specDirection
+    jsonPathConsumedEvent: prescription.specDirection
+    dbColumnName: spec_direction
+
+  specDispenseAsWritten:
+    jsonPathProducedEvent: prescription.specDispenseAsWritten
+    jsonPathConsumedEvent: prescription.specDispenseAsWritten
+    dbColumnName: dispense_as_written
+
+  specImmutable:
+    jsonPathProducedEvent: prescription.specImmutable
+    jsonPathConsumedEvent: prescription.specImmutable
+    dbColumnName: spec_immutable
+
+  specNumberRefill:
+    jsonPathProducedEvent: prescription.specNumberRefill
+    jsonPathConsumedEvent: prescription.specNumberRefill
+    dbColumnName: spec_number_refill
+
+  specOriginalEnteredDatetime:
+    jsonPathProducedEvent: prescription.specOriginalEnteredDatetime
+    jsonPathConsumedEvent: prescription.specOriginalEnteredDatetime
+    dbColumnName: spec_orig_entered
+
+  specOriginalQuantityDispensed:
+    jsonPathProducedEvent: prescription.specOriginalQuantityDispensed.double
+    jsonPathConsumedEvent: prescription.specOriginalQuantityDispensed
+    dbColumnName: spec_orig_qty_dispensed
+
+  specOriginalQuantityPrescribed:
+    jsonPathProducedEvent: prescription.specOriginalQuantityPrescribed
+    jsonPathConsumedEvent: prescription.specOriginalQuantityPrescribed
+    dbColumnName: spec_orig_qty_prescribed
+
+  specOriginCode:
+    jsonPathProducedEvent: prescription.specOriginCode.['com.wba.rxdata.load.event.avro.SpecificationOriginCode']
+    jsonPathConsumedEvent: prescription.specOriginCode
+    dbColumnName: spec_origin_code
+
+  specPatientCode:
+    jsonPathProducedEvent: prescription.specPatientCode
+    jsonPathConsumedEvent: prescription.specPatientCode
+    dbColumnName: spec_patient_code
+
+  specPrescribedActualProductPackCode:
+    jsonPathProducedEvent: prescription.specPrescribedActualProductPackCode.string
+    jsonPathConsumedEvent: prescription.specPrescribedActualProductPackCode
+    dbColumnName: spec_prescribed_app
+
+  specPrescriberCode:
+    jsonPathProducedEvent: prescription.specPrescriberCode
+    jsonPathConsumedEvent: prescription.specPrescriberCode
+    dbColumnName: spec_prescriber_code
+
+  specPrescriberDeaNumber:
+    jsonPathProducedEvent: prescription.specPrescriberDeaNumber.string
+    jsonPathConsumedEvent: prescription.specPrescriberDeaNumber
+    dbColumnName: spec_dea_number
+
+  specPrescriberDeaSuffix:
+    jsonPathProducedEvent: prescription.specPrescriberDeaSuffix.string
+    jsonPathConsumedEvent: prescription.specPrescriberDeaSuffix
+    dbColumnName: spec_dea_suffix
+
+  specPrescriberLocationCode:
+    jsonPathProducedEvent: prescription.specPrescriberLocationCode
+    jsonPathConsumedEvent: prescription.specPrescriberLocationCode
+    dbColumnName: spec_pcbr_location_code
+
+  specPrescriberSupervisorFirstName:
+    jsonPathProducedEvent: prescription.specPrescriberSupervisorFirstName.string
+    jsonPathConsumedEvent: prescription.specPrescriberSupervisorFirstName
+    dbColumnName: spec_pcbr_sup_first_name
+
+  specPrescriberSupervisorLastName:
+    jsonPathProducedEvent: prescription.specPrescriberSupervisorLastName.string
+    jsonPathConsumedEvent: prescription.specPrescriberSupervisorLastName
+    dbColumnName: spec_pcbr_sup_last_name
+
+  specRefillExpirationDate:
+    jsonPathProducedEvent: prescription.specRefillExpirationDate.int
+    jsonPathConsumedEvent: prescription.specRefillExpirationDate
+    dbColumnName: spec_refill_exp_date
+
+  specLocation:
+    jsonPathProducedEvent: prescription.specLocation
+    jsonPathConsumedEvent: prescription.specLocation
+
+  specLocationNumber:
+    jsonPathProducedEvent: prescription.specLocation.locationNumber
+    jsonPathConsumedEvent: prescription.specLocation.locationNumber
+    dbColumnName: spec_location_number
+
+  specLocationType:
+    jsonPathProducedEvent: prescription.specLocation.locationType
+    jsonPathConsumedEvent: prescription.specLocation.locationType
+    dbColumnName: spec_location_type
+
+  specTotalQuantityPrescribed:
+    jsonPathProducedEvent: prescription.specTotalQuantityPrescribed.double
+    jsonPathConsumedEvent: prescription.specTotalQuantityPrescribed
+    dbColumnName: spec_total_qty_prescribed
+
+  specUnlimitedFill:
+    jsonPathProducedEvent: prescription.specUnlimitedFill
+    jsonPathConsumedEvent: prescription.specUnlimitedFill
+    dbColumnName: spec_unlimited_fill
+
+  specWrittenDate:
+    jsonPathProducedEvent: prescription.specWrittenDate
+    jsonPathConsumedEvent: prescription.specWrittenDate
+    dbColumnName: spec_written_date
+
+
+
+
+
+
+
+
+

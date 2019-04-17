@@ -1,0 +1,193 @@
+{
+  "correlationId" : "15372313992",
+  "eventProducedTime" : 6655599855,
+  "dispense" : {
+    "actualProductPackCode" : "APP010",
+    "coupon" : true,
+    "couponActualProductPackCode" : {
+      "string" : "COUP245"
+    },
+    "dataEnteredBy" : {
+      "employeeNumber" : "25369875",
+      "employeeType" : "CONSULTANT"
+    },
+    "daysSupply" : 3,
+    "generalRecipientNumber" : {
+      "string" : "RECEIP2566"
+    },
+    "location" : {
+      "locationNumber" : "23456",
+      "locationType" : "HealthcareClinic"
+    },
+    "originCode" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.DispenseOriginCode" : "WALKIN"
+    },
+    "patPbrDataReviewedBy" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.EmployeeIdentifier" : {
+        "employeeNumber" : "1265456",
+        "employeeType" : "CONSULTANT"
+      }
+    },
+    "payCode" : {
+      "string" : "MED123"
+    },
+    "paymentMethod" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.PaymentMethod" : "CASH"
+    },
+    "pharmacistOfRecord" : {
+      "employeeNumber" : "1265456",
+      "employeeType" : "CONSULTANT"
+    },
+    "planCode" : {
+      "string" : "PLAN1235"
+    },
+    "priorAuthorizationCode" : {
+      "string" : "AUTH2536"
+    },
+    "priorAuthorizationNumber" : {
+      "string" : "AUTH6596"
+    },
+    "productDataReviewedBy" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.EmployeeIdentifier" : {
+        "employeeNumber" : "5698254",
+        "employeeType" : "CONSULTANT"
+      }
+    },
+    "quantityDispensed" : 30.0,
+    "servicePlace" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.DispenseServicePlace" : "HEALTHCARE_CLINIC"
+    }
+  },
+  "prescription" : {
+    "externalSource" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.ExternalSource" : "ICPLUS"
+    },
+    "externalIdentifiers" : [ {
+      "name" : "rxNumber",
+      "value" : "75936458"
+    } ],
+    "authorizer" : {
+      "string" : "AUTH1234"
+    },
+    "autoRefill" : true,
+    "comments" : {
+      "string" : "DSFDSFDS"
+    },
+    "genericSubstitutePreference" : true,
+    "intermediaryAuthorizationId" : {
+      "string" : "IAMID234"
+    },
+    "printGenericProductName" : true,
+    "printSavings" : true,
+    "publicSafetyDepartmentNumber" : {
+      "string" : "SDN253"
+    },
+    "status" : "ACTIVE",
+    "substituteType" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.RxSubstituteType" : "GENERIC"
+    },
+    "direction" : "AA",
+    "dispenseAsWritten" : true,
+    "locationIdentifier" : {
+      "locationNumber" : "23456",
+      "locationType" : "HealthcareClinic"
+    },
+    "numberRefill" : 3,
+    "originalQuantityDispensed" : {
+      "double" : 20.0
+    },
+    "originalQuantityPrescribed" : 30.0,
+    "originCode" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.SpecificationOriginCode" : "WALKIN"
+    },
+    "patientCode" : "Pat234562343",
+    "prescribedActualProductPackCode" : {
+      "string" : "APK563"
+    },
+    "prescriberCode" : "PCODE2536",
+    "prescriberDeaNumber" : {
+      "string" : "12456"
+    },
+    "prescriberDeaSuffix" : {
+      "string" : "DSFDS"
+    },
+    "prescriberLocationCode" : "1253",
+    "prescriberSupervisorFirstName" : {
+      "string" : "EVAN"
+    },
+    "prescriberSupervisorLastName" : {
+      "string" : "DJ"
+    },
+    "fillExpirationDate" : {
+      "int" : 3000
+    },
+    "totalQuantityPrescribed" : {
+      "double" : 120.0
+    },
+    "unlimitedFill" : true,
+    "writtenDate" : 3000,
+    "externalQuantityRemaining" : 120.0,
+    "externalLastDispenseEnteredDateTime" : {
+      "long" : 123546497
+    },
+    "externalDataEnteredBy" : {
+      "firstName" : "John",
+      "lastName" : "Smith",
+      "initials" : {
+        "string" : "A"
+      },
+      "middleNameInitial" : {
+        "string" : "F"
+      }
+    },
+    "externalDataEnteredDateTime" : {
+      "long" : 123546497
+    },
+    "externalLastPatientPrescriberDataReviewedBy" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.Name" : {
+        "firstName" : "Nick",
+        "lastName" : "D",
+        "initials" : {
+          "string" : "A"
+        },
+        "middleNameInitial" : {
+          "string" : "F"
+        }
+      }
+    },
+    "externalLastPatientPrescriberDataReviewedDateTime" : {
+      "long" : 123546497
+    },
+    "externalLastProductDataReviewedBy" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.Name" : {
+        "firstName" : "Harry",
+        "lastName" : "A",
+        "initials" : {
+          "string" : "S"
+        },
+        "middleNameInitial" : {
+          "string" : "R"
+        }
+      }
+    },
+    "externalLastProductDataReviewedDateTime" : {
+      "long" : 123546497
+    },
+    "externalRxScannedBy" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.Name" : {
+        "firstName" : "Ryan",
+        "lastName" : "W",
+        "initials" : {
+          "string" : "D"
+        },
+        "middleNameInitial" : {
+          "string" : "FD"
+        }
+      }
+    },
+    "specOriginalScannedDateTime" : {
+      "long" : 123546497
+    }
+  },
+  "contextId" : "Context123"
+}

@@ -1,0 +1,16 @@
+{
+
+  "rxNumberFilter": {
+    "location": {
+      "locationNumber": "659511",
+      "locationType": "Pharmacy"
+    },
+    "rxNumber": "34212129"
+  },
+  "patientDispenseFilter": {
+    "patientCode": "pcode007",
+    "dispenseStatus": "ENTERED"
+  },
+  "dispenseCode": "6ec772f7-a28f-4a60-b7e6-3f1f032e334f"
+
+}

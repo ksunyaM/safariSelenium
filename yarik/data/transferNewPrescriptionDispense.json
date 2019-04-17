@@ -1,0 +1,98 @@
+{
+  "correlationId":"15372313992",
+  "eventProducedTime":6655599855,
+  "dispense":{
+    "actualProductPackCode":"APP010",
+    "coupon":false,
+    "couponActualProductPackCode":null,
+    "dataEnteredBy":{
+      "employeeNumber":"25369875",
+      "employeeType":"CONSULTANT"
+    },
+    "daysSupply":3,
+    "generalRecipientNumber":null,
+    "location":{
+      "locationNumber":"2345612",
+      "locationType":"HealthcareClinic"
+    },
+    "originCode":null,
+    "patPbrDataReviewedBy":null,
+    "payCode":null,
+    "paymentMethod":null,
+    "pharmacistOfRecord":{
+      "employeeNumber":"1265456232",
+      "employeeType":"CONSULTANT"
+    },
+    "planCode":null,
+    "priorAuthorizationCode":null,
+    "priorAuthorizationNumber":null,
+    "productDataReviewedBy":null,
+    "quantityDispensed":30,
+    "servicePlace":null
+  },
+  "prescription":{
+    "externalSource" : {
+      "com.wba.rxpdata.prescription.external.transferin.event.avro.ExternalSource" : "ICPLUS"
+    },
+    "externalIdentifiers":[
+      {
+        "name":"rxNumber",
+        "value":"75936458"
+      }
+    ],
+    "authorizer":null,
+    "autoRefill":false,
+    "comments":null,
+    "genericSubstitutePreference":false,
+    "intermediaryAuthorizationId":null,
+    "printGenericProductName":false,
+    "printSavings":false,
+    "publicSafetyDepartmentNumber":null,
+    "status":"ACTIVE",
+    "substituteType":null,
+    "direction":"AA",
+    "dispenseAsWritten":false,
+    "locationIdentifier":{
+      "locationNumber":"2345612",
+      "locationType":"HealthcareClinic"
+    },
+    "numberRefill":3,
+    "originalQuantityDispensed":{
+      "double" : 20
+    },
+    "originalQuantityPrescribed":30,
+    "originCode":null,
+    "patientCode":"Pat234562343",
+    "prescribedActualProductPackCode":null,
+    "prescriberCode":"PCODE2536",
+    "prescriberDeaNumber":null,
+    "prescriberDeaSuffix":null,
+    "prescriberLocationCode":"1253",
+    "prescriberSupervisorFirstName":null,
+    "prescriberSupervisorLastName":null,
+    "fillExpirationDate":null,
+    "totalQuantityPrescribed":null,
+    "unlimitedFill":false,
+    "writtenDate":3000,
+    "externalQuantityRemaining": 120.0,
+    "externalLastDispenseEnteredDateTime":null,
+    "externalDataEnteredBy" : {
+      "firstName" : "John",
+      "lastName" : "Smith",
+      "initials" : {
+        "string" : "A"
+      },
+      "middleNameInitial" : {
+        "string" : "F"
+      }
+    },
+    "externalDataEnteredDateTime":null,
+    "externalLastPatientPrescriberDataReviewedBy":null,
+    "externalLastPatientPrescriberDataReviewedDateTime":null,
+    "externalLastProductDataReviewedBy":null,
+    "externalLastProductDataReviewedDateTime":null,
+    "externalRxScannedBy":null,
+    "specOriginalScannedDateTime":null
+  },
+  "contextId":"Context123"
+}

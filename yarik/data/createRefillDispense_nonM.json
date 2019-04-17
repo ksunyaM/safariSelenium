@@ -1,0 +1,37 @@
+{
+  "eventProducedTime" : 123546497,
+  "correlationId" : "32135648",
+  "dataEnteredBy" : {
+    "employeeNumber" : "emp1234",
+    "employeeType" : "EMPLOYEE"
+  },
+  "dispensingLocation" : {
+    "locationNumber" : "loc1234",
+    "locationType" : "Pharmacy"
+  },
+  "lastDispenseCode" : "32135464613",
+  "pharmacistOfRecord" : {
+    "employeeNumber" : "25367565",
+    "employeeType" : "CONSULTANT"
+  },
+  "prescriptionCode" : "2131564646",
+  "refillDispense" : {
+    "com.wba.rxpdata.dispense.refill.create.event.avro.RefillDispense" : {
+      "daysSupply" : 3,
+      "generalRecipientNumber" : {
+        "string" : "RECEIP2566"
+      },
+      "payCode" : {
+        "string" : "PAY123"
+      },
+      "paymentMethod" : {
+        "com.wba.rxpdata.dispense.refill.create.event.avro.PaymentMethod" : "CASH"
+      },
+      "planCode" : {
+        "string" : "NEW1235"
+      },
+      "quantityDispensed" : 27
+    }
+  },
+  "contextId" : "Context12233"
+}

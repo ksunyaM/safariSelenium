@@ -1,0 +1,35 @@
+{
+  "code": "rxpdata-pbrcode",
+  "name": {
+    "lastName": "RXPDataLN",
+    "suffix" : "Ms"
+  },
+  "nationalProviderIdentifier": "1234567890",
+  "prescriberLicenses": [
+    {
+      "deaSuffix": "Jr",
+      "expirationDate": "2018-10-10",
+      "licenseNumber": "123456789",
+      "licenseState": "AK",
+      "licenseStatus": "ACTIVE",
+      "licenseType": "CONTROLLED_SUBSTANCE"
+    }
+  ],
+  "prescriberLocations": [
+    {
+      "code": "rxpdata-pbrcode-loccode",
+      "prescriberLocationAddress": {
+        "addressLine1": "rxpaddressline1",
+        "addressLine2": "rxpaddressline2",
+        "city": "Deerfield",
+        "state": "AK",
+        "zipCode": "60180"
+      },
+      "prescriberContact": {
+        "phoneNumber": "847-999-9999"
+      }
+    }
+  ],
+  "status": "VALID",
+  "type": "PBR"
+}
