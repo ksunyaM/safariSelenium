@@ -1,0 +1,13 @@
+headers:
+  ef.user: devUser
+  ef.name: tmp
+  ef.company: WBA Company
+  ef.dynamic.event.destination: tmp
+
+schemaName: CreateRxPrescriberAndPrescriberPlan-value
+defaultBodyPath: com/wba/test/data/prescriber_load.json
+
+schemaNameKey: ContextIdKey-value
+defaultBodyPathKey: com/wba/test/data/contextIdKey.json
+
+partition: 2

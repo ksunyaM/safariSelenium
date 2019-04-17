@@ -1,0 +1,5 @@
+
+csquid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(„¥ü÷üÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢åõ¤ûÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+csquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(›º÷‚ýÿÿÿÿ

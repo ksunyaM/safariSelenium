@@ -1,0 +1,8 @@
+
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¨Â
+^squid:S2133"GRemove this object instantiation and use "Configuration.class" instead.(÷¿ô
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(øçÉŒşÿÿÿÿ
+Osquid:S25899"8Remove this expression which always evaluates to "false"(¸çÜì
+jsquid:UselessImportCheck"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ

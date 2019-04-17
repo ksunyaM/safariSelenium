@@ -1,0 +1,91 @@
+{
+  "correlationId": "RANDOMUUID::",
+  "eventProducedTime": "timestamp::",
+  "code": {
+    "string": "a3b9c4a2-c3fb-4856-9237-f489757f74ce"
+  },
+  "firstName": "Tom",
+  "lastName": "Riddle",
+  "middleInitial": {
+    "string": "Morvolo"
+  },
+  "suffix": {
+    "string": "MD"
+  },
+  "status": "Active",
+  "npiCode": {
+    "string": "0123456789"
+  },
+  "prescriberType": "PBR",
+  "licenses": {
+    "array": [
+      {
+        "licenseType": "DEA",
+        "suffix": {
+          "string": "IV"
+        },
+        "licenseNumber": "102900",
+        "licenseState": {
+          "string": "IL"
+        },
+        "expirationDate": {
+          "int": 1890508315
+        },
+        "status": "Active"
+      },
+      {
+        "licenseType": "DEA",
+        "suffix": {
+          "string": "III"
+        },
+        "licenseNumber": "090901",
+        "licenseState": {
+          "string": "WI"
+        },
+        "expirationDate": {
+          "int": 2079810715
+        },
+        "status": "Active"
+      }
+    ]
+  },
+  "prescriberLocationAddresses": [
+    {
+      "code": {
+        "string": "code1"
+      },
+      "addressLine1": "123 Main Street",
+      "addressLine2": {
+        "string": "Suite 400"
+      },
+      "city": {
+        "string": "Deerfield"
+      },
+      "state": {
+        "string": "IL"
+      },
+      "zipCode": {
+        "string": "60015"
+      }
+    },
+    {
+      "code": {
+        "string": "code2"
+      },
+      "addressLine1": "1121 Continental Ave",
+      "addressLine2": {
+        "string": "Suite 112"
+      },
+      "city": {
+        "string": "Naperville"
+      },
+      "state": {
+        "string": "IL"
+      },
+      "zipCode": {
+        "string": "60234"
+      }
+    }
+  ]
+}
+/* Copyright 2018 Walgreen Co. */

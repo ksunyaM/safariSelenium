@@ -1,0 +1,80 @@
+{
+  "contextId" : "$$v:uuid::",
+  "correlationId" : "$$v:uniqueID",
+  "eventProducedTime" : 1543953434,
+  "externalUpdateDateTime" : {
+    "long" : 1543953434
+  },
+  "nationalProviderIdentifier" : {
+    "string" : "npi"
+  },
+  "prescriberCode" : "$$pc:uuid::",
+  "prescriberLicenses" : {
+    "array" : [ {
+      "deaSuffix" : {
+        "string" : "dea"
+      },
+      "expirationDate" : {
+        "int" : 18000
+      },
+      "licenseNumber" : "$$v:uuid::",
+      "licenseState" : "OH",
+      "licenseType" : "CONTROLLED_SUBSTANCE",
+      "licenseStatus" : {
+        "com.wba.rxprescriber.updaterequest.event.avro.LicenseStatus" : "ACTIVE"
+      }
+    } ]
+  },
+  "prescriberLocation" : {
+    "prescriberContact" : {
+      "com.wba.rxprescriber.updaterequest.event.avro.PrescriberContact" : {
+        "email" : {
+          "string" : "autotest@1.com"
+        },
+        "faxNumber" : {
+          "string" : "555-555-55-56"
+        },
+        "phoneNumber" : {
+          "string" : "555-555-55-55"
+        },
+        "refillPhoneNumber" : {
+          "string" : "555-555-55-57"
+        }
+      }
+    },
+    "prescriberLocationAddress" : {
+      "com.wba.rxprescriber.updaterequest.event.avro.PrescriberLocationAddress" : {
+        "addressLine1" : {
+          "string" : "1435 Lake Cook Road 01 01"
+        },
+        "addressLine2" : {
+          "string" : "none"
+        },
+        "city" : {
+          "string" : "Deerfield"
+        },
+        "state" : {
+          "com.wba.rxprescriber.updaterequest.event.avro.AddressState" : "IL"
+        },
+        "zipCode" : {
+          "string" : "60000"
+        }
+      }
+    },
+    "prescriberLocationCode" : "$$v:uuid::"
+  },
+  "prescriberName" : {
+    "firstName" : "f Name u",
+    "lastName" : "L name u",
+    "middleInitial" : {
+      "string" : "mi"
+    },
+    "suffix" : {
+      "string" : "sfx"
+    }
+  },
+  "status" : "INVALID",
+  "type" : {
+    "string" : "auto test"
+  }
+}
