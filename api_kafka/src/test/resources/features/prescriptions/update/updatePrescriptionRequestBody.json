@@ -1,9 +1,0 @@
-{
-  "patientId": "E2E:1",
-  "validityDate": 1543622400,
-  "state": "DRAFT",
-  "issuedBy": "Dr John Newton",
-  "diseaseId": "AA:001",
-  "drugsIds": ["DD:1","DD:2"],
-  "note": "eat 1/d"
-}

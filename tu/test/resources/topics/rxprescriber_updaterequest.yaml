@@ -1,8 +1,0 @@
-headers:
-  ef.user: devUser
-  ef.name: tmp
-  ef.company: WBA Company
-  ef.dynamic.event.destination: tmp
-
-schemaName: UpdateRxPrescriber-value
-defaultBodyPath: com/wba/test/data/prescriber_update.json

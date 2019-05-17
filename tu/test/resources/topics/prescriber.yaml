@@ -1,8 +1,0 @@
-headers:
-  user: platform
-  name: CreationPrescriberDataEvent
-  company: WBA Company
-  dynamic.event.destination: inputKafkaCreatePrescriberTO
-
-schemaName: prescriber-value_qe
-defaultBodyPath: com/wba/test/data/defaultPrescriberData.json

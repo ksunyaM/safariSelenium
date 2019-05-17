@@ -1,8 +1,0 @@
-{
-    "quantity": 0,
-    "sourceLocation": "${sourceLocation}",
-    "stockUnitCode": "${stockUnit}",
-    "replenishmentTaskCode": "${code}",
-    "username": "john",
-    "warehouseCode": "${warehouse}"
-}
